@@ -74,7 +74,7 @@ export default function Home() {
                     delay={75}
                     animateBy="words"
                     direction="top"
-                    className="text-xl mb-8 text-[#4F0341] justify-between"
+                    className="text-xl mb-8 text-[#4F0341] justify-start"
                   />
                 </div>
             </div>
