@@ -13,7 +13,7 @@
     "@react-three/drei": "^9.122.0",
     "@react-three/fiber": "^8.18.0",
     "@react-three/rapier": "^1.5.0",
-    "framer-motion": "^11.18.2",
+    "framer-motion": "^12.23.12",
     "meshline": "^3.3.1",
     "next": "14.2.26",
     "ogl": "^1.0.11",
