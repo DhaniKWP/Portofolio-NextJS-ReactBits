@@ -30,6 +30,8 @@ interface LanyardProps {
   gravity?: [number, number, number];
   fov?: number;
   transparent?: boolean;
+  segments?: number;
+  enablePhysics?: boolean;
 }
 
 export default function Lanyard({

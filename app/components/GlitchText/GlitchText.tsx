@@ -1,4 +1,3 @@
-'use client'
 import { FC, CSSProperties } from "react";
 
 interface GlitchTextProps {
