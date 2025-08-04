@@ -353,26 +353,26 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
                 {
-                  title: "E-Learning Platform",
-                  description: "Interactive learning management system with modern UI and collaborative features for enhanced educational experience.",
-                  tech: ["React", "Node.js", "MongoDB", "Socket.io"],
-                  status: "In Development",
+                  title: "Personal Finance Tracker Project ",
+                  description: "A simple and user-friendly mobile application to record daily income and expenses. Built using Flutter, this app helps users manage their personal finances, track spending habits, and maintain better budgeting with categorized entries and clean UI.",
+                  tech: ["Flutter","SQlite"],
+                  status: "Completed",
                   statusColor: "bg-amber-100 text-amber-800 border-amber-200",
                   gradient: "from-orange-400 to-pink-400"
                 },
                 {
-                  title: "Task Management System", 
-                  description: "Professional productivity tool with team collaboration features and comprehensive analytics dashboard.",
-                  tech: ["Next.js", "TypeScript", "PostgreSQL", "Tailwind"],
+                  title: "TikTok Video Downloader", 
+                  description: "A simple web-based tool to download TikTok videos without watermark. Just paste the video URL and download instantly.",
+                  tech: ["HTML", "Python Flask", "SnapTik API,"],
                   status: "Completed",
                   statusColor: "bg-blue-100 text-blue-800 border-blue-200",
                   gradient: "from-blue-400 to-purple-400"
                 },
                 {
-                  title: "Weather Dashboard",
-                  description: "Real-time weather application with geolocation services and beautiful data visualizations.",
-                  tech: ["React", "Chart.js", "OpenWeather API", "PWA"],
-                  status: "Live",
+                  title: "Car Service Booking System",
+                  description: "A fullstack web application for booking car service appointments. This system includes user and admin dashboards, booking management, status tracking, and digital invoice generation.",
+                  tech: ["Express.js", "MYSQL", "Node.js", "HTML", "CSS"],
+                  status: "Completed",
                   statusColor: "bg-green-100 text-green-800 border-green-200",
                   gradient: "from-green-400 to-blue-400"
                 }
